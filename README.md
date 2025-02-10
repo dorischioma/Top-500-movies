@@ -2,10 +2,11 @@
 
 
 ### Overview
-This repository contains SQL queries and documentation for analysing a Top 500 movies dataset. The dataset includes information about the budget, domestic gross, international gross, worldwide gross, percentage recovered and budget source for movies between 1973 and 2023.
+This repository contains SQL queries and documentation for analysing a Top 500 movies dataset to uncover trends, patterns and insights. The dataset includes information about the budget, domestic gross, international gross, worldwide gross, percentage recovered and budget source for movies between 1973 and 2023.
 
-### Data Sources
+### Data Source
 The primary dataset used for this analysis is the [ Most Profitable Movies of All Time - Top 500 Movies.csv](https://www.kaggle.com/datasets/joebeachcapital/top-500-hollywood-movies-of-all-time/data) file, containing information about movies from 5 decades.
+
 
 ### File
 [SQL query]
@@ -50,3 +51,23 @@ The primary dataset used for this analysis is the [ Most Profitable Movies of Al
 11.	Genre-Specific Insights:
 -	Do horror movies have a different pattern of worldwide gross or percentage budget recovery compared to other genres?
 -	How does the “horror” label impact the international gross percentage for movies in comparison to other genres?
+
+## Key Findings
+- Movies like **The Force Awakens**, **Avengers: Infinity War** and **Spider-Man: No Way Home** topped the list in terms of revenue generated worldwide.
+- Movies from 1970's have higher percentage budget recovered.
+- Movies that perform well domestically have higher percentage of international gross.
+- Movies produced in 2020's has the highest average worldwide gross.
+- Movies produced in 2020's have higher average budget of $174M compared to 1970's with $10M budget.
+
+## How to Use This Repo  
+1. **Download the dataset** from this repository.  
+2. **Open `Top 500 movies`** in database to explore raw data.  
+
+## Contact  
+ **LinkedIn:** [Doris Mba](https://www.linkedin.com/in/dorismba/)  
+ **Email:** mbadoris6@gmail.com  
+
+---
+
+### **Contributing**
+Feel free to explore or suggest improvements!  
