@@ -61,7 +61,7 @@ The primary dataset used for this analysis is the [ Most Profitable Movies of Al
 
 ## How to Use This Repo  
 1. **Download the dataset** from this repository.  
-2. **Open `Top 500 movies`** in database to explore raw data.  
+2. **Open `Top 500 movies.sql`** in database to explore raw data.  
 
 ## Contact  
  **LinkedIn:** [Doris Mba](https://www.linkedin.com/in/dorismba/)  
